@@ -1,6 +1,6 @@
 # Hi, I'm Jais Collins
 
-**Operations & AI automation** | Saskatchewan, Canada | Open to roles across Canada
+**Operations & AI automation** | Open to roles across Canada, remote or relocating
 
 I help teams get clean reporting, reconciled numbers and faster workflows, using multi-agent AI where it actually saves time.
 
